@@ -1,1 +1,2 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=667EEA&background=0D1117&vCenter=true&width=500&lines=student+%26+developer;LLM+integration+%7C+AI+Agents;building+Telegram+bots+with+AI+integrations;deploy+%7C+PostgreSQL+%7C+FastAPI;turning+ideas+into+products)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sabr2007&theme=tokyonight&hide_border=true&background=0D1117&ring=667EEA&fire=667EEA&currStreakNum=667EEA)](https://git.io/streak-stats)
